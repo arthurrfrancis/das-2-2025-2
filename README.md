@@ -14,7 +14,8 @@
 
 - Pilares do AWS Well Architected:
   1. Operational excellence: Run and monitor systems that deliver business value, Continually improve supporting processes and procedures, View the entire workload as code
-  2. Security: 
-  3. Reliability:
-  4. Performance Effiency:
+  2. Security: Implement a strong identity foundation, Mantain traceability, Implement risk assessment and mitigation strategies
+  3. Reliability: Recover quickly, Dynamically meet compute demand, Mitigate disruptions
+  4. Performance Effiency: Choose and maintain efficient resources, Democratize advanced technologies, Employ mechanical Sympathy
   5. Cost optimization:
+  6. 
