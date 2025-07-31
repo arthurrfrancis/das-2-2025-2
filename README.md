@@ -19,3 +19,6 @@
   4. Performance Effiency: Choose and maintain efficient resources, Democratize advanced technologies, Employ mechanical Sympathy
   5. Cost optimization: Measure effiency, Eliminate unneeded expense, Adopt the right consumption model, Consider using managed services
   6. Sustainability: Establish sustainability goals, Maximize utilization, Choose efficient hardware and software, Reduce downstream impact
+
+- Implementando escalabilidade
+- Automatizando o ambiente
