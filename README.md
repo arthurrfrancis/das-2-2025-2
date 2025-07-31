@@ -17,5 +17,5 @@
   2. Security: Implement a strong identity foundation, Mantain traceability, Implement risk assessment and mitigation strategies
   3. Reliability: Recover quickly, Dynamically meet compute demand, Mitigate disruptions
   4. Performance Effiency: Choose and maintain efficient resources, Democratize advanced technologies, Employ mechanical Sympathy
-  5. Cost optimization:
-  6. 
+  5. Cost optimization: Measure effiency, Eliminate unneeded expense, Adopt the right consumption model, Consider using managed services
+  6. Sustainability: Establish sustainability goals, Maximize utilization, Choose efficient hardware and software, Reduce downstream impact
