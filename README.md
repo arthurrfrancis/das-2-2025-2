@@ -27,4 +27,6 @@
 
 - Regiões e AZs das infraestruturas
 
-- 
+- Princípios do pilar de segurança
+
+- Princípio do privilégio mínimo
