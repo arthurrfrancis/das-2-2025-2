@@ -22,3 +22,9 @@
 
 - Implementando escalabilidade
 - Automatizando o ambiente
+
+# Aula 06/08
+
+- Regiões e AZs das infraestruturas
+
+- 
