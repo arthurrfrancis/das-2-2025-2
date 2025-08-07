@@ -23,10 +23,16 @@
 - Implementando escalabilidade
 - Automatizando o ambiente
 
-# Aula 06/08
+# Aula 06/08 
+(escrevi um monte e o navegador crashou sem salvar)
 
 - Regiões e AZs das infraestruturas
 
 - Princípios do pilar de segurança
 
 - Princípio do privilégio mínimo
+
+- Protegendo com server encription
+
+- Autenticação e autorização
+
