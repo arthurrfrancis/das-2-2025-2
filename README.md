@@ -36,3 +36,15 @@
 
 - Autenticação e autorização
 
+# Aula 13/08
+
+- Determining permissions at the time of request
+
+- IAM policy document structure
+    - Version
+    - Statement
+    - Effect
+    - Principal
+    - Action
+    - Resource
+    - Condition
