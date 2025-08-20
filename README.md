@@ -48,3 +48,20 @@
     - Action
     - Resource
     - Condition
+
+# Aula 20/08
+
+- Amazon S3
+  - A bucket is a container for objects
+  - Benefits
+      - Durability
+      - Availability
+      - High Performance
+   
+- How costumers use Amazon S3
+  - Spikes in demand
+  - Static site
+  - Financial analysis
+ 
+  
+  - Disaster recovery
