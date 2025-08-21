@@ -62,6 +62,10 @@
   - Spikes in demand
   - Static site
   - Financial analysis
- 
-  
   - Disaster recovery
+
+- Object storage classes
+- Block storage
+- File Share
+- Object Store
+- S3 resumo geral
