@@ -69,3 +69,15 @@
 - File Share
 - Object Store
 - S3 resumo geral
+
+  # Aula 27/08
+
+  - Considerations when choosing a Region
+    - Data privacy laws and regulatory compliance
+    - Proximity of users to data
+    - Availability service and feature
+    - Cost-effectiveness
+
+  - Amazon S3 Inventory
+      - Use Amazon S3 inventory to help manage your storage
+  
