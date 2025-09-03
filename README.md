@@ -70,14 +70,22 @@
 - Object Store
 - S3 resumo geral
 
-  # Aula 27/08
+# Aula 27/08
 
-  - Considerations when choosing a Region
-    - Data privacy laws and regulatory compliance
-    - Proximity of users to data
-    - Availability service and feature
-    - Cost-effectiveness
+- Considerations when choosing a Region
+  - Data privacy laws and regulatory compliance
+  - Proximity of users to data
+  - Availability service and feature
+  - Cost-effectiveness
 
-  - Amazon S3 Inventory
+- Amazon S3 Inventory
       - Use Amazon S3 inventory to help manage your storage
-  
+
+#  Aula 03/09
+
+- AWS runtime compute choices
+    - VMs
+    - Containers
+    - VPS
+    - Platform as a Service (PaaS)
+    - Serverless
