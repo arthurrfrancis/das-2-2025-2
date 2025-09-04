@@ -89,3 +89,4 @@
     - VPS
     - Platform as a Service (PaaS)
     - Serverless
+- Amazon Machine Image
