@@ -90,3 +90,12 @@
     - Platform as a Service (PaaS)
     - Serverless
 - Amazon Machine Image
+
+# Aula 10/09
+
+- https://aws.amazon.com/pt/ec2/instance-types/
+
+- Instance store
+- Amazon EBS
+- Amazon Elastic File System (EFS)
+- 
