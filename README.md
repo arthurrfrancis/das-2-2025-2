@@ -98,4 +98,5 @@
 - Instance store
 - Amazon EBS
 - Amazon Elastic File System (EFS)
-- 
+
+- Subindo EC2 Windows
