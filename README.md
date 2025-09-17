@@ -105,3 +105,4 @@
 
 - Retrieving instance metadata
 - AMI deployment models
+- Amazon VPC
