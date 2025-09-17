@@ -100,3 +100,8 @@
 - Amazon Elastic File System (EFS)
 
 - Subindo EC2 Windows
+
+# Aula 17/09
+
+- Retrieving instance metadata
+- AMI deployment models
