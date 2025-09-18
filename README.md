@@ -106,3 +106,5 @@
 - Retrieving instance metadata
 - AMI deployment models
 - Amazon VPC
+- Network address translation (NAT) gateway
+- Amazon route 53
