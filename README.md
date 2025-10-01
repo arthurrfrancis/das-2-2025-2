@@ -108,3 +108,14 @@
 - Amazon VPC
 - Network address translation (NAT) gateway
 - Amazon route 53
+
+# Aula 24/09
+
+# Aula 01/10
+
+- Peering
+- VPC connectivity with AWS PrivateLink architecture
+- AWS site-to-site VPN
+- Creating a site-to-site VPN connection
+- AWS Direct Connect
+- Extend an on-premise network to AWS by using direct connect
