@@ -159,3 +159,7 @@
 - AWS Security Token Service
 - Amazon Cognito
 - AWS WAF
+
+# Aula 15/10
+
+- CloudWatch
