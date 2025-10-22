@@ -163,3 +163,11 @@
 # Aula 15/10
 
 - CloudWatch
+- Elasticidade
+- Escalabilidade horizontal
+- Balanceador de carga
+
+# Aula 22/10
+
+- Route 53
+- IAC Benefits
