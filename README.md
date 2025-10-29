@@ -171,3 +171,9 @@
 
 - Route 53
 - IAC Benefits
+
+# Aula 29/10
+
+- CDN
+- CloudFront global edge
+- DDoS mitigation
